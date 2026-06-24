@@ -1,3 +1,4 @@
+
 <?php
     include('../inc/functions.php');
     $departments = get_all_departments();
